@@ -1,12 +1,12 @@
 
 {
   "name": "react-native-appnext",
-  "version": "1.1.1",
+  "version": "1.1.101",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jerson/react-native-appnext"
+    "url": "https://github.com/lexgorbunov/react-native-appnext"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,9 +14,9 @@
   "keywords": [
     "react-native"
   ],
-  "author": "Gerson Alexander Pardo Gamez",
+  "author": "Aleksandr Gorbunov",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.55"
+    "react-native": "^0.71"
   }
 }
